@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm B</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **I’m currently working on building full-stack web development projects**
+- 🔭 I’m currently working on **building full-stack web development projects**
 
-- 🌱 I’m currently learning **I’m currently learning Node.js and backend development**
+- 🌱 I’m currently learning **Node.js and backend development**
 
-- 🤝 I’m looking for help with **I’m looking for help with breaking into the software engineering industry**
+- 🤝 I’m looking for help with **breaking into the software engineering industry**
 
-- 💬 Ask me about **Ask me about HTML, CSS, JavaScript, and web development fundamentals**
+- 💬 Ask me about **HTML, CSS, JavaScript, and web development fundamentals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
